@@ -1,0 +1,60 @@
+#header {
+    background-color: #42a5f5;
+    display: flex;
+}
+
+#market {
+    margin: 0px 0px 0px 300px;
+}
+
+nav {
+    position: fixed;
+}
+
+#navbar {
+    left: 200;
+    top: 0;
+    color: #757575;
+    background-color: white;
+    float: inline-end;
+}
+
+#products {
+    margin: 0px 0px 0px 300px;
+}
+
+#footbar {
+    text-align: left;
+    color: #3f515a;
+    background-color: #42a5f5;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h2 {
+    color: #42a5f5;
+}
+
+footer {
+    text-align: center;
+}
+
+body {
+    font-size: 27px;
+    position: relative;
+    color: #757575;
+    background-color: #f5f5f5;
+    font-family: "Roboto", sans-serif;
+}
+
+@media(max-width:300px) {}
+
+@media(min-width:10000px) {}
+
+@media(min-width:5000px) {}
+
+@media(max-height:300px) {}
+
+@media(min-height:10000px) {}
+
+@media(min-height:5000px) {}
