@@ -144,8 +144,6 @@ body {
         <hr>
         <footer style="background-color: #42a5f5">STICKYFOOT All Copyright Claims Reserved @2019</footer>
     </div>
-    <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js">
-    </script>
 </body>
 
 </html>
